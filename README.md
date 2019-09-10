@@ -24,7 +24,7 @@
 Media = (N1 + N2) / 2
 
 onde:
-- N1 = A1 * O,9 + Exercicios * 0,1
+- N1 = A1 * 0,9 + Exercicios * 0,1
 - N2 = A2 * 0,9 + Exercicios * 0,1
 
 ### Dúvidas:
